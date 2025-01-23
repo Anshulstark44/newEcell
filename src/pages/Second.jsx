@@ -22,6 +22,9 @@ const SecondPage = () => {
           <h1 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-yellow-400">
             Anshul Verma
           </h1>
+          <h1 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-yellow-400">
+              안술 버마
+          </h1>
           <p className="text-lg text-gray-300 mt-2">Reg. No. : 20233065</p>
         </div>
 
